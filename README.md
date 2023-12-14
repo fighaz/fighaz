@@ -109,7 +109,7 @@
 
 <p align="center">
   <a href="https://github.com/fighaz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="fighaz GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fighaz&theme=radical&border=7F3FBF&background=0D1117" alt="fighaz GitHub streak"/>
   </a>
 </p>
 
