@@ -78,13 +78,22 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00A9E0?style=for-the-badge&logo=fiber&logoColor=white)
+![Gorm](https://img.shields.io/badge/Gorm-007396?style=for-the-badge&logo=go&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -102,23 +111,37 @@
 <hr/>
 <br/>
 
+<!-- Bagian 1: Streak & Stats (1 baris 2 kolom) -->
 <p align="center">
   <a href="https://github.com/fighaz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fighaz&theme=radical&border=7F3FBF&background=0D1117" alt="fighaz GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fighaz&theme=radical&border=7F3FBF&background=0D1117" 
+         alt="fighaz GitHub streak" width="49.5%" height="200px"/>
+  </a>
+  <a href="https://github.com/fighaz">
+    <img alt="fighaz Github Stats" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=fighaz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+         width="49.5%" height="200px"/>
   </a>
 </p>
 
+
+<!-- Bagian 2: Contribution (1 baris full width) -->
 <p align="center">
   <a href="https://github.com/fighaz">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fighaz&theme=radical" alt="fighaz GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fighaz&theme=radical" alt="fighaz GitHub Contribution" width="100%"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/fighaz"><img alt="fighaz Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=fighaz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/fighaz"><img alt="fighaz Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fighaz&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<!-- Bagian 3: Language (1 baris 2 kolom) -->
+<p align="center">
+  <a href="https://github.com/fighaz">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fighaz&theme=aura_dark" alt="fighaz GitHub Repos per Language" width="49.5%"/>
+  </a>
+  <a href="https://github.com/fighaz">
+    <img alt="fighaz Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fighaz&theme=aura_dark" width="49.5%"/>
+  </a>
+</p>
 
 
-![SofiSugiharto Zaini Graph](https://github-readme-activity-graph.vercel.app/graph?username=fighaz&custom_title=SofiSugiharto%20Zaini's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<!-- ![SofiSugiharto Zaini Graph](https://github-readme-activity-graph.vercel.app/graph?username=fighaz&custom_title=SofiSugiharto%20Zaini's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)  -->
